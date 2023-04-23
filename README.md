@@ -2,4 +2,4 @@
 
 [archivioapp.net](https://www.archivioapp.net) Files Archive Manager App.
 
-This repository functions as a platform where you can submit bug reports, make requests for new features, and engage in general discussions.
+This repository is as a platform where you can submit bug reports, make requests for new features, and engage in general discussions.
