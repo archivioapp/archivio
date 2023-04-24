@@ -1,4 +1,4 @@
-[![Archivio_github-banner](https://user-images.githubusercontent.com/130581829/233871771-90c0d646-1fe2-4be1-b68b-9ac554e320f6.png)](https://www.archivioapp.net){:target="_blank"}
+<a href="https://www.archivioapp.net" target="_blank"><img src="https://user-images.githubusercontent.com/130581829/233871771-90c0d646-1fe2-4be1-b68b-9ac554e320f6.png" alt="Archivio_github-banner"></a>
 
 [Archivioapp](https://www.archivioapp.net) Files Archive Manager App.
 
